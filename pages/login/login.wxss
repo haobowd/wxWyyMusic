@@ -1,8 +1,4 @@
 page{
-    background: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1517241667929&di=34084b5233dcf70673483b8e4e9a0042&imgtype=0&src=http%3A%2F%2Fpic.xiudodo.com%2Ffigure%2F00%2F00%2F42%2F51%2F63%2F4355c2e51b54876.jpg') no-repeat left top;
-    background-size: cover;
-}
-page{
     height: 100%;
     display: flex;
     justify-content: center;
